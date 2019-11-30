@@ -2,6 +2,7 @@
 
 ## installation
 
-git clone repository
+```git clone repository```
+
 npm install
 
