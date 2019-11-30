@@ -1,0 +1,18 @@
+{
+  "name": "luqman-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ur:belief": "babel src/index.js --out-dir=build  --delete-dir-on-start && node build",
+    "build": "babel src --out-dir=build  --delete-dir-on-start && node build"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
