@@ -2,7 +2,10 @@
 
 ## installation
 
-```git clone repository```
+```shell
+git clone repository
+```
 
+```shell 
 npm install
-
+```
