@@ -1,5 +1,4 @@
-var age =     "262"
+const age = '262';
 
-var result = () =>   {
-return age + 30
-}
+const result = () => age + 30;
+result();
