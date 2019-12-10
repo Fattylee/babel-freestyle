@@ -11,6 +11,7 @@ debug(2, 4, 6, 8, 9);
 
 var longestName = "ahhssineshsbzgevsgbzhs";
 
+var appendLongestName = longestName + "!!!"
 let getLongestName = function(name){
 return name;
 }
